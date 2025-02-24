@@ -19,6 +19,7 @@ video {
 }
 
         .logo {
+          font-family:"Pacifico";
             font-size: 1.8rem;
             font-weight: 700;
             background: var(--gradient);
